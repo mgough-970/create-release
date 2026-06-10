@@ -1,6 +1,6 @@
 # GitHub Action - Releases API
 
-**Please note:** This repository is currently unmaintained by a team of developers at GitHub. The 
+**Please note:** This repository is currently unmaintained by a team of developers at GitHub. The  
 repository is here and you can use it as an example, or in Actions. However please be aware that 
 we are not going to be updating issues or pull requests on this repository.
 
