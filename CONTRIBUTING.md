@@ -11,6 +11,14 @@ Contributions to this project are [released](https://help.github.com/articles/gi
 
 Please note that this project is released with a [Contributor Code of Conduct][code-of-conduct]. By participating in this project you agree to abide by its terms.
 
+## Runtime compatibility changes
+
+This fork updates the action and workflow references to current GitHub Actions JavaScript runtimes:
+
+- `action.yml` now uses `node24`
+- workflow references use `actions/checkout@v5`
+- CodeQL workflow references use `github/codeql-action@v4`
+
 ## Submitting a pull request
 
 1. [Fork][fork] and clone the repository
